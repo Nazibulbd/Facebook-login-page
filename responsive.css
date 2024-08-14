@@ -1,0 +1,8 @@
+@media screen and (max-width: 1050px){
+    #facebook_login_1{
+        display: block;
+    }
+    #facebook_login_2{
+        display: none;
+    }
+}
